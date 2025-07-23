@@ -132,6 +132,10 @@ g++ -o ackermann.exe ackermann.cpp
 4.雖然遞迴版本在m和n太大時會造成Stack Overflow，但對小輸入的測試很方便也看得出結果。
 
 
+
+
+
+
 1-2
 
 
