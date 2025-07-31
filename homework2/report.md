@@ -29,7 +29,7 @@ operator<<：格式化輸出，如 3x^2 + 2x + 1
 測試主程式於 main.cpp
 
 ## 程式實作
-
+```cpp
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -77,7 +77,7 @@ int main() {
     cout << endl;
     return 0;
 }
-
+```
 
 ## 效能分析
 時間複雜度：O(m + n)
